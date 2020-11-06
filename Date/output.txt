@@ -1,0 +1,11 @@
+> javac -classpath .:/run_dir/junit-4.12.jar:target/dependency/* -d . Date.java Main.java
+> java -classpath .:/run_dir/junit-4.12.jar:target/dependency/* Main
+06/27/1996 and 06/27/1996 are 0 days apart
+06/27/1996 and 06/28/1996 are 1 days apart
+01/01/1995 and 01/01/1996 are 365 days apart
+01/01/1995 and 02/29/1996 are 424 days apart
+Exception in thread "main" java.lang.AssertionError: Encountered an invalid date: 02/30/1996
+    at Date.<init>(Date.java:42)
+    at Main.main(Main.java:41)
+exit status 1
+>
