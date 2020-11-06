@@ -1,7 +1,6 @@
-**Lab Description**
-
 <img src="https://i.ibb.co/ydZQCKf/days-Apart-1.jpg" alt="days-Apart-1" border="0">
 
+# Code
 **Date.java**
 ```java
 class Date {
