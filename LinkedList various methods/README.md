@@ -1,14 +1,14 @@
 # Lab
 
-1. Write a swap method to swap the first and last values of a Linked List.
-2. Write a method that converts all the ints in an array into a linked list and returns the head of the new list.
-3. Write a method maxLength(LinkedList words) that assume that words contain String objects and returns the longest word from the list.
-4. Write two functions recursively that prints the forward and backward.
-
-```java
-public void printForward(LinkedList ListofNames)
-public void printBackward(LinkedList ListofNames)
-```
+> 1. Write a swap method to swap the first and last values of a Linked List.
+> 2. Write a method that converts all the ints in an array into a linked list and returns the head of the new list.
+> 3. Write a method maxLength(LinkedList words) that assume that words contain String objects and returns the longest word from the list.
+> 4. Write two functions recursively that prints the forward and backward.
+> 
+> ```java
+> public void printForward(LinkedList ListofNames)
+> public void printBackward(LinkedList ListofNames)
+> ```
 
 # Code
 ```java
