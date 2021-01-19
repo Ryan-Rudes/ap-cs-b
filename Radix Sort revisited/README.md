@@ -1,5 +1,5 @@
 # Lab
-Import the LinkedList class from Java and use that class instead of the LinkedList class you used to write the Radix Sort lab.
+> Import the `LinkedList` class from Java and use that class instead of the `LinkedList` class you used to write the Radix Sort lab.
 
 # Code
 **Main.java**
