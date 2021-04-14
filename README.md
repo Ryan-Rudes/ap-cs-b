@@ -1,2 +1,2 @@
 # AP CS B Labs
-A collection of my code from the labs given in AP CS B
+My work for labs assigned in AP CS B
